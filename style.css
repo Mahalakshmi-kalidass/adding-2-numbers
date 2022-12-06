@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+.section{
+  
+  border: 1px solid black;
+  font-size: 30px;
+  width:600px;
+  
+  padding: 20px;
+  
+ 
+}
+
+.section input{
+  height: 30px;
+  font-size: 20px;
+  margin:10px 0;
+  border:none;
+  outline: none;
+  border-bottom:2px solid palevioletred
+}
+.btn{
+  width:100px;
+  margin:30px auto;
+ 
+  
+
+}
+.btn input{
+  border:2px solid palevioletred;
+   border-radius:5px;
+}
+
+label{
+  display: inline-block;
+  //border:1px solid black;
+  width:310px;
+  margin:10px 0;
+}
+
+
